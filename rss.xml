@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Lodestone]]></title>
         <description><![CDATA[Lodestone]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lodestone-technologies/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 25 Oct 2015 02:59:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 25 Oct 2015 03:26:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lodestone-technologies/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://static.pexels.com/photos/4831/hands-coffee-smartphone-technology-large.jpg">]]></description>
+            <link>https://thegrid.ai/lodestone-technologies/23554f54-373b-41d1-8145-4e12c3654af4/index.html</link>
+            <guid isPermaLink="false">23554f54-373b-41d1-8145-4e12c3654af4</guid>
+            <pubDate>Sun, 25 Oct 2015 03:26:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[For Small Businesses]]></title>
             <description><![CDATA[<article><h1>For Small Businesses</h1><p>Lodestone's innovative approach to apps helps small businesses attract and engage customers.</p></article>]]></description>
-            <link>undefinedfor-small-businesses/index.html</link>
+            <link>https://thegrid.ai/lodestone-technologies/for-small-businesses/index.html</link>
             <guid isPermaLink="false">b7b279be-e6bb-4c76-96c2-3bd64f2a7972</guid>
             <pubDate>Sun, 25 Oct 2015 02:58:56 GMT</pubDate>
         </item>
