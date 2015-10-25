@@ -1,7 +1,7 @@
 name: Lodestone Technologies
 favicon: null
 layout_spectrum: 0.44341
-typography_spectrum: 0.05117857735604048
+typography_spectrum: 0.62292
 title: Lodestone
 cta:
   domain: null
@@ -16,9 +16,14 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#8d97a1'
+    - '#f4f7fc'
+    - '#3f413c'
+    - '#160e0c'
+    - '#f4c090'
   brandStrength: 0.8125
-  lightness: 0.2874604216776788
-  saturation: 0.39580728439614177
+  lightness: 0.6875
+  saturation: 0.75
   rhythmicContrast: 0.8238244706299156
 purpose: []
