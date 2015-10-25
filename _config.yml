@@ -1,0 +1,23 @@
+name: Lodestone Technologies
+favicon: null
+layout_spectrum: 0.7662031252402812
+typography_spectrum: 0.05117857735604048
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8311976885888726
+  lightness: 0.2874604216776788
+  saturation: 0.39580728439614177
+  rhythmicContrast: 0.8238244706299156
+purpose: []
